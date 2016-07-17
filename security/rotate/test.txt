@@ -1,0 +1,12 @@
+EECS 280 Programming and Introductory Data Structures,
+ENGI 100 Introduction to Computers and Programming,
+EECS 281 Data Structures and Algorithms,
+EECS 285 A Programming Language or Computer System (Java),
+EECS 370 Introduction to Computer Organization,
+EECS 381 Object Oriented and Advanced Programming,
+EECS 388 Introduction to Computer Security,
+EECS 398 Special Topics (Computing for Computer Scientists),
+EECS 441 Mobile Development & Entrepreneurship,
+EECS 484 Database Management Systems,
+EECS 485 Web Database and Information Systems,
+C/C++, Java, Python Flask, Javascript Angularjs/JQuery, HTML, CSS, Bash
